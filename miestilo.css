@@ -1,0 +1,27 @@
+header{
+	background: url(./images/bg.jpeg) no-repeat center;
+	background-size: cover;
+	width: 100%;
+	min-height: 530px;
+}
+
+#logo{
+	width: 20%;
+	padding: auto;
+	margin-top: 3%;
+}
+
+.jumbotron {
+	color: white;
+	margin-top: 0%;
+	padding-bottom: 15% 0 15% 0;
+	text-align: center;	
+}
+
+.navbar {
+	margin-bottom: 0;
+
+}
+
+
+
